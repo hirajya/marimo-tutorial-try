@@ -1,0 +1,45 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.18.4"
+  },
+  "cells": [
+    {
+      "id": "MJUe",
+      "code_hash": "aa6364b41f66f630a20f29a79a6b0f5e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"sample2py-data-exploration-and-visualization\">Sample2.py: Data Exploration and Visualization</h1>\n<span class=\"paragraph\">This notebook demonstrates basic data exploration and visualization using a sample dataset. Use the controls below to filter and visualize the data interactively.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "3a679f3371cd65f2210235118fb7831a",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "325139ff5fa4018ad629d1af490edb72",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "6174e6f76bf5b9270f97bf61ccba379b",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "3485bd23b70fb20196934602c7204a43",
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
